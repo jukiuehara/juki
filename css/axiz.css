@@ -7,8 +7,9 @@
     padding: 30px;
 }
 h4{
-    margin: 10px 10px 30px 600px ;
-    border-bottom: 200px red;
+    text-align: center;
+    border-bottom:solid 2px red;
+    color: aquamarine;
     
 }
 .d{
@@ -20,7 +21,9 @@ body{
 .waku{
 width: 600px;
 margin: auto;
+
 }
+
 .hisssu{
 background-color: rgba(255, 80, 80, 0.647);
 border-radius:5px;
@@ -36,7 +39,7 @@ button{
     padding: 3px;
 }
 .sita{
-    margin: 30px 10px 0px 600px ;
+    text-align: center;
     border-top: 300px red;
     padding:20px 0px 0px 0px ;
 }
