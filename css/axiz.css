@@ -3,11 +3,45 @@
     flex-direction: column;
     justify-content: center;
     background:white;
-    margin: 20px;
+    
+    padding: 30px;
+}
+h4{
+    margin: 10px 10px 30px 600px ;
+    border-bottom: 200px red;
+    
 }
 .d{
  background-color: azure;   
 }
 body{
     margin: 50px 350px;
+}
+.waku{
+width: 600px;
+margin: auto;
+}
+.hisssu{
+background-color: rgba(255, 80, 80, 0.647);
+border-radius:5px;
+color: white;
+
+
+}
+.yoko{
+    float:left;
+}
+button{
+    margin-top: 10;
+    padding: 3px;
+}
+.sita{
+    margin: 30px 10px 0px 600px ;
+    border-top: 300px red;
+    padding:20px 0px 0px 0px ;
+}
+textarea{
+    border-radius:8px;
+    border-color: rgba(11, 11, 11, 0.133);
+
 }
