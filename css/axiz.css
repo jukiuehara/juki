@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background:white;
+    margin: 20px;
+}
+.d{
+ background-color: azure;   
+}
+body{
+    margin: 50px 350px;
+}
